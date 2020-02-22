@@ -1,0 +1,1 @@
+draw_text(x,y,"you are not going to stop aren't you?")

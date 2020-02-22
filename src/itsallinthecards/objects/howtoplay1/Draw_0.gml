@@ -1,0 +1,1 @@
+draw_text(x,y,"how to play: \n you attack by using your cards! each time you use a card \n you will loose hp \ if theres no number on the card it \n will just hurt you \n you will loose hp every couple of seconds" )

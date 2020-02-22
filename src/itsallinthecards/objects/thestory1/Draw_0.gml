@@ -1,0 +1,1 @@
+draw_text(x,y,"you found a map! in the map you see a treasure and you \n decide to find it. \n its in the dungeon so watch out for enemies!")

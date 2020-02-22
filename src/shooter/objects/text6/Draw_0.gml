@@ -1,0 +1,1 @@
+draw_text(x,y,"your smarter then i thought :(")

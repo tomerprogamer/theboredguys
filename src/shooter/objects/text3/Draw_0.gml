@@ -1,0 +1,1 @@
+draw_text(x,y,"so far so good...")

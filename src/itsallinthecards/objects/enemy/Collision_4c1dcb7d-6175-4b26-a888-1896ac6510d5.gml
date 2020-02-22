@@ -1,0 +1,1 @@
+global.mana -=7
