@@ -1,0 +1,1 @@
+draw_text(x,y,"game by tomer (development) and guy (art) oziransky")

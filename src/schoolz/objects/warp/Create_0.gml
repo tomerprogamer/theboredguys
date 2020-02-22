@@ -1,0 +1,1 @@
+var targetroom, targetX, targetY
