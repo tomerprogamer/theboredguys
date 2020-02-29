@@ -1,0 +1,1 @@
+draw_text(x,y,"press N for no    press Y for yes")

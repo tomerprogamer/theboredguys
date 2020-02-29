@@ -79,6 +79,14 @@
             }
         },
         {
+            "Key": "108f061a-48d0-4c41-aabb-69fc8904ff75",
+            "Value": {
+                "id": "638f2a4e-7d46-413b-ac85-df06ba057fc5",
+                "resourcePath": "sounds\\sound0\\sound0.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
             "Key": "122d2e39-4533-45ab-929f-73e9406c9602",
             "Value": {
                 "id": "106e8227-f150-47c9-a6b3-f2b44ce78730",
@@ -103,6 +111,14 @@
             }
         },
         {
+            "Key": "1a532949-6c1d-4fdd-bf3c-f54200f84791",
+            "Value": {
+                "id": "cffa2784-e3ce-46e0-b9cf-632b75810950",
+                "resourcePath": "objects\\music\\music.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "1a8914b4-d9ae-46f4-9aef-1e60d8f8aed1",
             "Value": {
                 "id": "e029d795-d832-43a8-86a9-8b01da0f4946",
@@ -116,6 +132,14 @@
                 "id": "50eac6de-9957-42df-881a-d246356c9ae2",
                 "resourcePath": "views\\1c346ee0-29d8-445c-a6db-34bb32830054.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "1e9e5739-56d5-414f-8ab0-204357849dca",
+            "Value": {
+                "id": "88bad950-7947-47e5-b2cb-b60568c35ede",
+                "resourcePath": "rooms\\ending1\\ending1.yy",
+                "resourceType": "GMRoom"
             }
         },
         {
@@ -191,6 +215,30 @@
             }
         },
         {
+            "Key": "3d077fdc-a1bf-4689-893d-9d4e69b77bca",
+            "Value": {
+                "id": "d39bfc4b-54b4-46ed-8658-00c4a21375ec",
+                "resourcePath": "objects\\end2\\end2.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "3f3f4033-f8c2-4db2-ba83-1748fab9dc7c",
+            "Value": {
+                "id": "a0353fdf-0012-4d78-8dab-29b443c4cda4",
+                "resourcePath": "objects\\tomute\\tomute.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "42b88491-f226-4064-adef-c06843b20120",
+            "Value": {
+                "id": "0f9d7e7c-df99-4b36-a455-d4f2676f2814",
+                "resourcePath": "sounds\\sound1\\sound1.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
             "Key": "48397079-ea7c-422d-a857-59f98a25e9c0",
             "Value": {
                 "id": "593e9a64-2fce-443d-ac7e-b1917e95ae3b",
@@ -212,6 +260,14 @@
                 "id": "d8690a79-e683-4c46-a118-1639d4fa6187",
                 "resourcePath": "views\\4f725b48-66a7-49be-8417-7814fdf90363.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "5129d52e-b8ec-4dfa-8cc6-97747cb83bba",
+            "Value": {
+                "id": "805aabf6-dacb-473e-ada5-1ab401ead756",
+                "resourcePath": "objects\\pressny\\pressny.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -255,6 +311,14 @@
             }
         },
         {
+            "Key": "5d7904a5-9090-40a9-87be-0b616b77f5ef",
+            "Value": {
+                "id": "fbbc298c-e9f5-4a3b-ac20-999353611e97",
+                "resourcePath": "sounds\\sound2\\sound2.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
             "Key": "6244d367-c278-48e0-b0df-ef2fea5db483",
             "Value": {
                 "id": "190676a1-3421-4d1e-a06d-751bca5bef8f",
@@ -292,6 +356,14 @@
                 "id": "4e340f11-b43f-420d-91f6-5f134bc42d5e",
                 "resourcePath": "objects\\swordguy2\\swordguy2.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "69c77bc0-3a4c-49fd-abc7-9ba18c37d64c",
+            "Value": {
+                "id": "5e1516be-f4a1-4d2f-9cce-fba4b651f1e0",
+                "resourcePath": "rooms\\ending2\\ending2.yy",
+                "resourceType": "GMRoom"
             }
         },
         {
@@ -599,6 +671,14 @@
             }
         },
         {
+            "Key": "c58d7f0d-a993-4179-90fa-88811040e93a",
+            "Value": {
+                "id": "3fbb1ade-ca81-4833-b538-02657d589cba",
+                "resourcePath": "objects\\object33\\object33.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "cba4bf84-784e-41df-9251-ec990dad14f1",
             "Value": {
                 "id": "400aedd7-5938-4fd0-a353-33a115c4319c",
@@ -652,14 +732,6 @@
                 "id": "89d70c07-f668-40a1-9e1d-7768406173ce",
                 "resourcePath": "views\\dc35da72-1761-43ac-b135-90564c2d66da.yy",
                 "resourceType": "GMFolder"
-            }
-        },
-        {
-            "Key": "dda717cc-359c-40df-933e-e87396a327f5",
-            "Value": {
-                "id": "f80b85e6-80be-47ff-91ef-c5a95194c7c6",
-                "resourcePath": "sprites\\sprite22\\sprite22.yy",
-                "resourceType": "GMSprite"
             }
         },
         {
@@ -732,6 +804,14 @@
                 "id": "924bbfe0-eab9-4efb-aa66-58de7f56ab25",
                 "resourcePath": "rooms\\boss1\\boss1.yy",
                 "resourceType": "GMRoom"
+            }
+        },
+        {
+            "Key": "fc0df73e-a7cb-40f0-981b-30902619f6b3",
+            "Value": {
+                "id": "6db4ddc4-64da-4f25-b1c5-7d2f4e0a3dc5",
+                "resourcePath": "objects\\end1\\end1.yy",
+                "resourceType": "GMObject"
             }
         }
     ],
